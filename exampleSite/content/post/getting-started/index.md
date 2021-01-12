@@ -33,7 +33,7 @@ authors:
 - 吳恩達
 
 tags:
-- Academic
+- Academic111
 - 开源
 
 categories:
