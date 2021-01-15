@@ -21,6 +21,9 @@ draft: false
 links:
 - name: 核心期刊
   url: ''
+- name: CSCD
+  url: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
