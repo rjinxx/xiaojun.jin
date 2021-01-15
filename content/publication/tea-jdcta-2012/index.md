@@ -38,13 +38,7 @@ projects: []
 publishDate: '2020-12-29T01:18:33.339938Z'
 publication_types:
 - '2'
-abstract: 'Background: Pathological tau is spread along anatomically connected networks,
-  originating in areas containing particularly vulnerable cell populations. It is
-  hypothesized that tau is released and spread as free tau, or via extracellular vesicles
-  (EVs) that include exosomes (30-150 nm), microvesicles (100-1000 nm), and apoptotic
-  bodies (1000-5000 nM). While a variety of different EV tau species have been identified
-  in tissue, cells, and bio-fluids, EV tau has not yet been described from human post-mortem
-  tauopathy brain tissue.'
+abstract: 'Detecting high-quality tea flushes from natural background is an crucial step towards a selective tea-picking robot. A tea flushes identification system was developed as a means of guidance for a robotic manipulator in the picking of high-quality tea. Several color indices, including cyan and magenta color difference in CMY color space, channels B, Q, i3 and Yb in LAB, YIQ, i1i2i3 and ARgYb color spaces, were studied and tested. Grey level image was transformed into binary image using Otsu method and then area filter was employed to eliminate small noise regions. Experimental results indicated that these color features were particularly effective for tea flushes recognition. The proposed methods could be used in future tea-picking robot vision system.'
 publication: "*International Journal of Digital Content Technology and its Applications*"
 doi: 10.4156/jdcta.vol6.issue18.71
 ---
