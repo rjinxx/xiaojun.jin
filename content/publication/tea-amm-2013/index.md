@@ -5,7 +5,7 @@ title: 'Tea Flushes Identification Based on Machine Vision for High-Quality Tea 
 subtitle: ''
 summary: ''
 authors:
-- "*admin*"
+- "**admin**"
 - Yong Chen
 - Yingqing Guo
 - Yanxia Sun
