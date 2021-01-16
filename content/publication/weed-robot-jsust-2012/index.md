@@ -17,7 +17,6 @@ featured: false
 draft: false
 
 links:
-- name: CSCD
 - name: 核心期刊
 
 # Featured image
