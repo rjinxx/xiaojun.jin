@@ -10,17 +10,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nanjing Forestry University
+- name: Stanford University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, computer vision and image processing.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Image Processing
 
 # Education to show in About widget
 education:
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rjinxx
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
