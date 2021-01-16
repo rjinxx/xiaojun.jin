@@ -18,7 +18,7 @@ draft: false
 links:
 - name: SCI
   url: ''
-- name: 二区
+- name: 2区
   url: ''
 - name: IF 3.745
   url: ''
