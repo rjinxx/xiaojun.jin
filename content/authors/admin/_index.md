@@ -73,6 +73,5 @@ email: ""
 highlight_name: true
 ---
 
-Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting the plucking.
-
+Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting the plucking points of tea shoots under natural conditions.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
