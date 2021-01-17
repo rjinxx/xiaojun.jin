@@ -31,7 +31,7 @@ education:
   - course: PhD in Mechanical Engineering
     institution: Nanjing Forestry University
     year: 2024
-  - course: MEng in Mechanical Engineering
+  - course: MSc in Mechanical Engineering
     institution: Nanjing Forestry University
     year: 2012
   - course: BSc in Mechanical Engineering
@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. 
+Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of several intelligent sensing systems needed for precision forestry and precision agriculture.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
