@@ -18,7 +18,7 @@ bio: My research interests include artificial intelligence, computer vision and 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence#############
+- Artificial Intelligence
 - Computer Vision
 - Image Processing
 
