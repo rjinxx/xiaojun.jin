@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 128
+weight: 115
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Software Copyright'
@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "登记号 2020SR1043065"
+  date_start: "2018-10-01"
   description: ""
-  organization: 王衍, 金小俊
+  organization: Coursera
   organization_url: https://www.coursera.org
-  title: 超短脉冲激光精密加工光斑重合率计算分析系统
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
