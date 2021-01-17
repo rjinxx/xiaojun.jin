@@ -16,6 +16,8 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+offset: 0
+
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
