@@ -12,43 +12,31 @@ weight: 125
 title: Software Copyright
 subtitle: ''
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
 content:
-  page_type: accomplishments
-    # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 3
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  item:
-  - certificate_url: https://www.coursera.org
-    date_end: ""
-    date_start: "登记号 2020SR1043065"
-    description: ""
-    organization: 王衍, 金小俊
-    organization_url: https://www.coursera.org
-    title: 超短脉冲激光精密加工光斑重合率计算分析系统
-    url: ""
-  - certificate_url: https://www.edx.org
-    date_end: ""
-    date_start: "2018-03-01"
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: "2017-12-21"
-    date_start: "2017-07-01"
-    description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R: S3 and R6 Course'
-    url: ""
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 1
+
 ---
