@@ -39,6 +39,6 @@ publishDate: '2020-12-29T01:18:33.339938Z'
 publication_types:
 - '2'
 abstract: 'Tea flushes identification from their natural background is the first key step for the intelligent tea-picking robot. This paper focuses on the algorithms of identifying the tea flushes based on color image analysis. A tea flushes identification system was developed as a means of guidance for a robotic manipulator in the picking of high-quality tea. Firstly, several color indices, including y-c, y-m, (y-c)/(y+c) and (y-m)/(y+m) in CMY color space, S channel in HSI color space, and U channel in YUV color space, were studied and tested. These color indices enhanced and highlighted the tea flushes against their background. Afterwards, grey level image was transformed into binary image using Otsu method and then area filter was employed to eliminate small noise regions. The algorithm and identification system has been tested extensively and proven to be well adapted to the complexity of a natural environment. Experiments show that these indices were particularly effective for tea flushes identification and could be used for future tea-picking robot development.'
-publication: "*Applied Mechanics and Materials*"
+publication: "- Applied Mechanics and Materials"
 doi: 10.4028/www.scientific.net/AMM.288.214
 ---
