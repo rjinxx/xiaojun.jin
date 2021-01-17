@@ -36,6 +36,6 @@ publishDate: '2020-12-29T01:18:33.339938Z'
 publication_types:
 - '1'
 abstract: 'Recent developed tea plucking machines mainly bases on the shearing principle which cut the top of the tea trees with no selectivity. Automatic tea flushes plucking machinery is essential to tea harvest for high-quality green tea manufacture, as labor cost increases rapidly in recent years. This paper focuses on the researches of a parallel green tea plucking robot with high efficiency. Color features are extracted to recognize tea flushes in the natural conditions using machine vision. Fringe projection profilometry is employed to realize 3D reconstruction and measurement for tea trees. A modified delta parallel robot with four arms is developed after kinematic analysis and mechanical design. The robot is controlled based on DSP (Digital Signal Processing). The experiments show over 85% could be detected successfully and the end-effector locating error is less than 2mm. The final objective of the researches is to realize a site-specific flushes plucking robot with high productivity which can replace several farms at green tea harvest season.'
-publication: "*5th International Conference on Education, Management, Information and Medicine*"
+publication: "`5th International Conference on Education, Management, Information and Medicine`"
 doi: 10.2991/emim-15.2015.5
 ---
