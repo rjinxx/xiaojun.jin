@@ -39,6 +39,6 @@ publishDate: '2020-12-29T01:18:33.339938Z'
 publication_types:
 - '1'
 abstract: 'A novel high-efficient weeding robot was developed, which could perform inter-row and intra-row weed control simultaneously. A machine vision based system was constructed to guide the robot to move along the crop line. The robot was driven by two geared motors. Intra-row weeds were distinguished from the crops by utilizing infrared sensing technology and the plant spacing information. A microcontroller based control system was designed and fabricated to remove intra-row weeds mechanically and inter-row weed by direct herbicide application. Experiments showed that the prototype of the weeding robot was able to walk along the crop line with an accuracy of ±5 cm and realize weeding operations.'
-publication: "`2013 ASABE Annual International Meeting`"
+publication: "2013 ASABE Annual International Meeting"
 doi: 10.13031/aim.20131596766
 ---
