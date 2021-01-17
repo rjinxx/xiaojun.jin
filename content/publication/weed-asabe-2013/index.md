@@ -39,6 +39,6 @@ publishDate: '2020-12-29T01:18:33.339938Z'
 publication_types:
 - '1'
 abstract: 'Crop/weed recognition is a crucial step for selective herbicide application. A machine vision based sensing system was developed to detect intra-row weeds when crops were at their early growth stages. The proposed methods used color feature to extract vegetation from the background, whilst height and plant spacing information analysis techniques were applied to discriminate between crops and weeds. Firstly the identification of the weeds that were lower than crops was done by a height-based segmentation method using a stereo vision system. During the stereo matching process, correspondence search was performed on edged stereo images and disparity calculation was applied only to the edge pixels. This strategy could largely reduce the correspondence search range, thereby enhanced the weed recognition speed and accuracy. Afterwards, the higher weeds were distinguished from the crops by utilizing plant spacing characters. The histogram of plant pixels and their peak position were calculated from each pixel row of the segmented disparity image. Then plant centers were located and each weed region was further extracted based on the interplant distance in a row.'
-publication: "`2013 ASABE Annual International Meeting`"
+publication: "2013 ASABE Annual International Meeting"
 doi: 10.13031/aim.20131592292
 ---

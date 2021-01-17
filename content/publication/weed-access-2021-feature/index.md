@@ -47,6 +47,6 @@ abstract: 'Weed identification in vegetable plantation is more challenging than 
 # Summary. An optional shortened abstract.
 summary: Traditional methods of crop weed identification used to be mainly focused on identifying weed directly; however, there is a large variation in weed species. This paper proposes a new method in a contrary way, which combines deep learning and image processing technology.
 
-publication: "`IEEE Access`"
+publication: "IEEE Access"
 doi: 10.1109/ACCESS.2021.3050296
 ---
