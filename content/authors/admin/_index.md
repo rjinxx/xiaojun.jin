@@ -18,10 +18,10 @@ bio: My research interests include artificial intelligence, computer vision and 
 
 # Interests to show in About widget
 interests:
-- Robotics
-- Artificial Intelligence
 - Computer Vision
 - Image Processing
+- Artificial Intelligence
+- Robotics
 - Software Development
 - iOS App Development
 
