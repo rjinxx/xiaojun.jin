@@ -16,8 +16,6 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-offset: 0
-
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -26,7 +24,7 @@ offset: 0
 experience:
   - title: Senior Staff Engineer
     company: SAIC Mobility Co., Ltd.
-    company_url: ''
+    company_url: 'https://www.saicmobility.com'
     location: Nanjing, China
     date_start: '2019-04-01'
     date_end: ''
@@ -34,7 +32,7 @@ experience:
         
   - title: Senior Software Engineer / Development Project Manager
     company: Perfect365, Inc.
-    company_url: ''
+    company_url: 'https://www.perfect365.com'
     location: Nanjing, China
     date_start: '2015-12-20'
     date_end: '2019-03-30'
@@ -42,7 +40,7 @@ experience:
 
   - title: R&D Engineer / Development Project Manager
     company: ArcSoft, Inc.
-    company_url: ''
+    company_url: 'https://www.arcsoft.com.cn'
     location: Nanjing, China
     date_start: '2012-06-15'
     date_end: '2015-12-20'
