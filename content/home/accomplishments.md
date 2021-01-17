@@ -29,7 +29,7 @@ item:
   description: ""
   organization: 王衍, 金小俊
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: 超短脉冲激光精密加工光斑重合率计算分析系统
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
