@@ -7,8 +7,6 @@ summary: ''
 authors:
 - 赵化
 - 金小俊
-- "Kristen R Maynard __*__"
-- "[__Leonardo Collado-Torres__](/authors/admin) __*__"
 tags: []
 categories: []
 date: '2020-02-01'
