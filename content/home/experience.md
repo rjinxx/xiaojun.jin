@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Staff Engineer
+    company: SAIC Mobility Co., Ltd.
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Nanjing, China
+    date_start: '2019-04-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Build software for SAIC Motor’s mobility platform.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Senior Software Engineer / Development Project Manager
+    company: Perfect365, Inc.
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Nanjing, China
+    date_start: '2015-12-20'
+    date_end: '2019-03-30'
+    description: Develop iOS App Perfect365, focusing on architecture, modular design, continuous integration and project management.
+
+  - title: R&D Engineer / Development Project Manager
+    company: ArcSoft, Inc.
+    company_url: ''
+    location: Nanjing, China
+    date_start: '2012-06-15'
+    date_end: '2015-12-20'
+    description: Image algorithm engineer and App developer for iOS. Responsible for building retail and OEM projects, specializing in iOS development.
+
 ---
