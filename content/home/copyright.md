@@ -1,6 +1,6 @@
 ---
-# An instance of the Tag Cloud widget.
-# Docs: https://wowchemy.com/docs/page-builder/
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
 # This file represents a page section.
@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 125
 
-title: Software Copyright
-subtitle: ''
+title: 'Software Copyright'
+subtitle:
 
 content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: copyright
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 5
   # Filter on criteria
   filters:
     author: ""
@@ -37,6 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
-
+  view: 2
 ---
