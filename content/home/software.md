@@ -19,7 +19,6 @@ content:
   count: 3
   # Filter on criteria
   filters:
-  filters:
     tag: ''
     category: ''
     publication_type: ''
@@ -38,3 +37,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering software](./event/).
+{{% /callout %}}
+
