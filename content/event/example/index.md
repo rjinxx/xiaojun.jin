@@ -4,7 +4,7 @@ title: Example Talk
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-# location: Wowchemy HQ
+location: 登记号 xxxxx
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -22,7 +22,7 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: [金小俊]
 tags: []
@@ -35,6 +35,7 @@ image:
   focal_point: Right
 
 links:
+- name: 核心期刊
 - icon: twitter
   icon_pack: fab
   name: Follow
