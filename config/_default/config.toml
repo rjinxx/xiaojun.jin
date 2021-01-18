@@ -43,7 +43,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
   publication_types = "/publication-type/:slug/"
-  copyright_types = "/copyright-type/:slug/"
+  software_types = "/software-type/:slug/"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
@@ -78,7 +78,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
-  copyright_type = "copyright_types"
+  software_type = "software_types"
   author = "authors"
 
 # Related content.
