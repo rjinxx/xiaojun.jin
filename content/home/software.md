@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: copyright
+  page_type: software
   # Choose how much pages you would like to display (0 = all pages)
   count: 3
   # Choose how many pages you would like to offset by
@@ -38,7 +38,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering copyrights](./copyright/).
+Quickly discover relevant content by [filtering softwares](./software/).
 {{% /callout %}}
 
 
