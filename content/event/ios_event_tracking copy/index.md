@@ -1,5 +1,5 @@
 ---
-title: 一种基于iOS应用的轻量级解耦式埋点方法及装置
+title: 一种基于数据和状态的移动应用埋点方法
 
 event: 发明专利
 event_url: ""
@@ -18,7 +18,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [金小俊, 赵化, 李卫丽]
+authors: [金小俊, 赵化, 王兴明]
 tags: []
 
 # Is this a featured talk? (true/false)
