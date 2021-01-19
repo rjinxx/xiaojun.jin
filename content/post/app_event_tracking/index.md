@@ -1,18 +1,18 @@
 ---
 title: 轻量级非侵入式埋点方案
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: 在发展日新月异的移动互联网时代，数据扮演着极其重要的角色。埋点作为一种最简单最直接的用户行为统计方式，能够全面精确的采集用户的使用习惯以及各功能点的迭代反馈等等，有了这些数据才能更好的驱动产品的决策设计和新业务场景的规划。
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 在发展日新月异的移动互联网时代，数据扮演着极其重要的角色。埋点作为一种最简单最直接的用户行为统计方式，能够全面精确的采集用户的使用习惯以及各功能点的迭代反馈等等，有了这些数据才能更好的驱动产品的决策设计和新业务场景的规划。
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2019-10-08T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2019-10-08T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
