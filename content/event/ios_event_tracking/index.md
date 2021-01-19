@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: 一种基于iOS应用的轻量级解耦式埋点方法及装置
 
 event: Wowchemy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: China
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -35,10 +35,7 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- name: 公布
 url_code: ""
 url_pdf: ""
 url_slides: ""
