@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Patents
 
 # View.
 #   1 = List
