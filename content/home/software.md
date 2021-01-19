@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 100
+weight: 110
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Software Copyright'
@@ -50,7 +50,7 @@ item:
 - certificate_url: ./software/unread_message_reminder.pdf
   date_end: ""
   date_start: "2020-04-27"
-  description: "D"
+  description: ""
   organization: 金小俊, 王衍
   organization_url: ""
   title: 移动应用未读内容智能提醒系统（iOS版）
@@ -58,7 +58,7 @@ item:
 - certificate_url: ./software/tea_flush_identification.jpg
   date_end: ""
   date_start: "2013-09-27"
-  description: "登记号: 2013SR104977"
+  description: ""
   organization: 陈勇, 金小俊
   organization_url: ""
   title: 基于机器视觉的茶树新梢识别软件
