@@ -41,7 +41,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering software](./software/).
+Quickly discover relevant content by [filtering patents](./event/).
 {{% /callout %}}
 
 
