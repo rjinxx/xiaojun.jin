@@ -1,7 +1,7 @@
 ---
 title: 一种基于iOS应用的轻量级解耦式埋点方法及装置
 
-event: Wowchemy Conference
+event: 发明专利
 event_url: https://example.org
 
 location: China
@@ -11,7 +11,7 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-01-15"
+date: "2020-10-12"
 date_end: "2021-01-15"
 all_day: true
 
@@ -25,6 +25,7 @@ tags: []
 featured: false
 
 links:
+- name: 发明
 - name: 公布
 url_code: ""
 url_pdf: ""
