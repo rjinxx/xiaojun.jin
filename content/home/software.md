@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ./software/超短脉冲激光精密加工光斑重合率计算分析系统.pdf
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-09-04"
   description: ""
   organization: 王衍, 金小俊
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: 超短脉冲激光精密加工光斑重合率计算分析系统
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
