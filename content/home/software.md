@@ -23,28 +23,44 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ./software/超短脉冲激光精密加工光斑重合率计算分析系统.pdf
+- certificate_url: ./software/tea_robot_vision.jpg
+  date_end: ""
+  date_start: "2020-12-17"
+  description: ""
+  organization: 车军, 金小俊
+  organization_url: ""
+  title: 采茶机器人视觉分析系统
+  url: ""
+- certificate_url: ./software/3d_profilometry.jpg
+  date_end: ""
+  date_start: "2020-12-17"
+  description: ""
+  organization: 车军, 金小俊
+  organization_url: ""
+  title: 优化的光栅投影三维测量仿真系统
+  url: ""
+- certificate_url: ./software/laser_processing.pdf
   date_end: ""
   date_start: "2020-09-04"
   description: ""
   organization: 王衍, 金小俊
-  organization_url: https://www.coursera.org
+  organization_url: ""
   title: 超短脉冲激光精密加工光斑重合率计算分析系统
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ./software/unread_message_reminder.pdf
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2020-04-27"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: 金小俊, 王衍
+  organization_url: ""
+  title: 移动应用未读内容智能提醒系统（iOS版）
+  url: ""
+- certificate_url: ./software/tea_flush_identification.jpg
+  date_end: ""
+  date_start: "2013-09-27"
+  description: "登记号: 2013SR104977"
+  organization: 陈勇, 金小俊
+  organization_url: ""
+  title: 基于机器视觉的茶树新梢识别软件
   url: ""
 ---
