@@ -50,7 +50,7 @@ item:
 - certificate_url: ./software/unread_message_reminder.pdf
   date_end: ""
   date_start: "2020-04-27"
-  description: ""
+  description: "D"
   organization: 金小俊, 王衍
   organization_url: ""
   title: 移动应用未读内容智能提醒系统（iOS版）
