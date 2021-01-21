@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Build software for SAIC Motor’s mobility platform.
         
-  - title: Senior Software Engineer / Development Project Manager
+  - title: Senior Software Engineer / Architect
     company: Perfect365, Inc.
     company_url: 'https://www.perfect365.com'
     location: Nanjing
