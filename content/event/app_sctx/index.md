@@ -1,5 +1,5 @@
 ---
-title: 一种基于行为描述的移动应用开发方法
+title: 一种针对弱信号场景下的无漂移司乘同显方法
 
 event: 发明专利
 event_url: ""
@@ -11,14 +11,14 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-09"
-date_end: "2021-01-22"
+date: "2020-09-02"
+date_end: "2021-01-29"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [金小俊, 赵化, 李卫丽]
+authors: [金小俊]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -26,7 +26,7 @@ featured: false
 
 links:
 - name: 发明
-- name: 实质审查的生效
+- name: 公布
 url_code: ""
 url_pdf: ""
 url_slides: ""
