@@ -1,5 +1,5 @@
 ---
-title: 一种移动应用远程诊断及热修复方法
+title: 一种基于模板代码匹配的轻量级热修复方法
 
 event: 发明专利
 event_url: ""
@@ -11,14 +11,14 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-02"
-date_end: "2021-03-26"
+date: "2020-12-15"
+date_end: "2021-03-30"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [金小俊]
+authors: [金小俊, 蒋杰, 赵化, 李卫丽]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -27,7 +27,6 @@ featured: false
 links:
 - name: 发明
 - name: 公布
-- name: 实质审查的生效
 url_code: ""
 url_pdf: ""
 url_slides: ""

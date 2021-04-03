@@ -26,6 +26,7 @@ featured: false
 
 links:
 - name: 发明
+- name: 公布
 - name: 实质审查的生效
 url_code: ""
 url_pdf: ""
