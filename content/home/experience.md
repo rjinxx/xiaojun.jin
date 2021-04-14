@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Principle Engineer / Expert
+  - title: Principle Engineer
     company: SAIC Mobility Co., Ltd.
     company_url: 'https://www.saicmobility.com'
     location: Nanjing
@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Build software for SAIC Motor’s mobility platform.
         
-  - title: Senior Software Engineer / Architect
+  - title: Senior Software Engineer
     company: Perfect365, Inc.
     company_url: 'https://www.perfect365.com'
     location: Nanjing
