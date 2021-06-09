@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ./software/ga_vegetable.pdf
+  date_end: ""
+  date_start: "2021-05-18"
+  description: ""
+  organization: 金小俊, 陈勇
+  organization_url: ""
+  title: 基于觅色识草算法的有机蔬菜地杂草识别软件
+  url: ""
 - certificate_url: ./software/tea_robot_vision.jpg
   date_end: ""
   date_start: "2020-12-17"
