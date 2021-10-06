@@ -14,7 +14,7 @@ organizations:
   url: https://www.njfu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, computer vision and image processing.
+bio: My research interests include robotics, computer vision and artificial intelligence.
 
 # Interests to show in About widget
 interests:
