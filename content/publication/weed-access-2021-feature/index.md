@@ -20,7 +20,7 @@ links:
   url: ''
 - name: EI
   url: ''
-- name: SCI 2区
+- name: 中科院JCR 2区
   url: ''
 - name: IF 3.745
   url: ''

@@ -26,7 +26,7 @@ draft: false
 links:
 - name: SCI
   url: ''
-- name: SCI 1区
+- name: 中科院JCR 1区
   url: ''
 - name: IF 4.845
   url: ''
