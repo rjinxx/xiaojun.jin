@@ -21,7 +21,7 @@ links:
   url: ''
 - name: 中科院JCR 4区
   url: ''
-- name: IF 4.845
+- name: IF 1.319 
   url: ''
 
 # Featured image
