@@ -19,6 +19,8 @@ draft: false
 links:
 - name: SCI
   url: ''
+- name: EI
+  url: ''
 - name: 中科院JCR 4区
   url: ''
 - name: IF 1.319 
