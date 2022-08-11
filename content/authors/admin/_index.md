@@ -6,7 +6,7 @@ title: Xiaojun Jin
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Mechanical Engineering
+role: Ph.D. Candidate in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting plucking points of tea shoots under natural conditions. This research is a key step in the development of an autonomous tea plucking robot. Download my {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Xiaojun Jin is a Ph.D. candidate in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting plucking points of tea shoots under natural conditions. This research is a key step in the development of an autonomous tea plucking robot. Download my {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
