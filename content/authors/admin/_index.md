@@ -14,27 +14,24 @@ organizations:
     url: https://www.njfu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, computer vision and artificial intelligence.
+bio: My research interests include machine vision and artificial intelligence.
 
 # Interests to show in About widget
 interests:
-  - Computer Vision
-  - Image Processing
+  - Machine Vision
   - Artificial Intelligence
   - Robotics
-  - Software Development
-  - iOS App Development
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Mechanical Engineering
+    - course: Ph.D. in Mechanical Engineering
       institution: Nanjing Forestry University
       year: 2024
-    - course: MSc in Mechanical Engineering
+    - course: M.S. in Mechanical Engineering
       institution: Nanjing Forestry University
       year: 2012
-    - course: BSc in Mechanical Engineering
+    - course: B.S. in Mechanical Engineering
       institution: Nanjing Forestry University
       year: 2009
 
@@ -73,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-Xiaojun Jin is a PhD student in Mechanical Engineering at ** Nanjing Forestry University **. His research interests include artificial intelligence, computer vision and image processing. > His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting plucking points of tea shoots under natural conditions. This research is a key step in the development of an autonomous tea plucking robot. Download my {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Xiaojun Jin is a PhD student in Mechanical Engineering at Nanjing Forestry University. His research interests include artificial intelligence, computer vision and image processing. His recent research has resulted in the development of an intelligent sensing system for weed detection in vegetable plantation using deep learning and image processing. He is currently continuing his research in developing advanced sensing system for detecting plucking points of tea shoots under natural conditions. This research is a key step in the development of an autonomous tea plucking robot. Download my {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
