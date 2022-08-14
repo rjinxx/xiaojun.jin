@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Student / Research Assistant
+    company: Peking University Institute of Advanced Agricultural Sciences
+    company_url: "http://www.pku-iaas.edu.cn"
+    location: Weifang
+    date_start: "2022-05-01"
+    date_end: ""
+    description: Develop robotics and sensing technologies for precision agriculture, with particular emphasis on weed control.
+
   - title: Principle Engineer
     company: SAIC Mobility Co., Ltd.
-    company_url: 'https://www.saicmobility.com'
+    company_url: "https://www.saicmobility.com"
     location: Nanjing
-    date_start: '2019-04-01'
-    date_end: ''
+    date_start: "2019-04-01"
+    date_end: ""
     description: Build software for SAIC Motor’s mobility platform.
-        
+
   - title: Senior Software Engineer
-    company: Perfect365, Inc.
-    company_url: 'https://www.perfect365.com'
-    location: Nanjing
-    date_start: '2015-12-20'
-    date_end: '2019-03-30'
-    description: Develop iOS App Perfect365, focusing on architecture, modular design, continuous integration and project management.
-
-  - title: R&D Engineer / Development Project Manager
     company: ArcSoft, Inc.
-    company_url: 'https://www.arcsoft.com.cn'
+    company_url: "https://www.arcsoft.com"
     location: Nanjing
-    date_start: '2012-06-15'
-    date_end: '2015-12-20'
-    description: Image algorithm engineer and App developer for iOS. Responsible for building retail and OEM projects, specializing in iOS development.
-
+    date_start: "2012-06-15"
+    date_end: "2019-03-30"
+    description: Build retail and OEM software, focusing on architecture, modular design, continuous integration and project management.
 ---
