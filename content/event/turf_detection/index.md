@@ -12,7 +12,7 @@ abstract: ""
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-05-31"
-date_end: "2021-09-07"
+date_end: "2022-06-03"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -25,13 +25,12 @@ tags: []
 featured: false
 
 links:
-- name: 发明
-- name: 受理
+  - name: 发明
+  - name: 授权
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
- 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
