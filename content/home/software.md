@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: ./software/data_status_tracking.pdf
+    date_end: ""
+    date_start: "2022-07-29"
+    description: ""
+    organization: 金小俊, 赵化
+    organization_url: ""
+    title: 基于数据和状态的移动应用可视化埋点系统
+    url: ""
   - certificate_url: ./software/precision_spraying.pdf
     date_end: ""
     date_start: "2021-12-23"
