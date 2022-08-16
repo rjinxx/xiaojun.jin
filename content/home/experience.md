@@ -40,7 +40,7 @@ experience:
 
   - title: Senior Software Engineer
     company: ArcSoft, Inc.
-    company_url: "https://www.arcsoft.com"
+    company_url: "https://www.arcsoft.com.cn"
     location: Nanjing
     date_start: "2012-06-15"
     date_end: "2019-03-30"
