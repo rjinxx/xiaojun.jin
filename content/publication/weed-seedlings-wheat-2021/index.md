@@ -26,9 +26,9 @@ draft: false
 links:
 - name: SCI
   url: ''
-- name: 中科院JCR 1区
+- name: 中科院1区Top期刊
   url: ''
-- name: IF 4.845
+- name: IF 4.462
   url: ''
 
 # Featured image

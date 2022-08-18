@@ -20,9 +20,9 @@ links:
   url: ''
 - name: EI
   url: ''
-- name: 中科院JCR 3区
+- name: 中科院3区
   url: ''
-- name: IF 3.745
+- name: IF 3.367
   url: ''
 
 # Featured image
