@@ -47,6 +47,6 @@ abstract: 'Precision spraying of synthetic herbicides can reduce herbicide input
 # Summary. An optional shortened abstract.
 summary: The grid cells were marked as spraying areas if the inference result indicated that they contained weeds. Only those nozzles corresponding to those cells infested with weeds were turned on, thus realizing a smart sensing and spraying system.
 
-publication: "**Pest Management Science**"
+publication: "Pest Management Science"
 doi: 10.1002/ps.7102
 ---
