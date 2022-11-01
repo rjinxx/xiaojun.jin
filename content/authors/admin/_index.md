@@ -43,12 +43,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "Mailto:xiaojun.jin@outlook.com"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com
+    link: https://scholar.google.com/citations?user=Brhr11IAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/rjinxx
