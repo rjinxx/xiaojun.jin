@@ -42,7 +42,7 @@ design:
 
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
-
+<li>于佳琳, <font color="800000">金小俊</font>, 刘旭东, 刘腾, 于洋. 除草设备[P]. 中国: ZL202222112381.5（<font color="0000FF">授权公告日: 2022.11.11</font>, 实用新型）<a href="./archive/patent/除草设备.pdf">[certificate]</a ></li>
 <li>于佳琳, <font color="800000">金小俊</font>, 刘旭东, 于洋, 刘腾. 除草方式的确定方法、装置、电子设备及除草系统[P].（申请公布号: CN115251024A, 申请公布日: 2022.11.01, 实质审查的生效, 发明）</li>
 <li><font color="800000">金小俊</font>, 于佳琳. 除草作业区域的确定方法及装置、除草设备[P].（申请公布号: CN115018770A, 申请公布日: 2022.09.06, 实质审查的生效, 发明）</li>
 <li>陈君, 聂宇成, 陈勇, 于佳琳, <font color="800000">金小俊</font>. 一种夹紧力可感知可调节的果实采摘机械手[P].（申请公布号: CN114946406A, 申请公布日: 2022.08.30, 实质审查的生效, 发明）</li>
