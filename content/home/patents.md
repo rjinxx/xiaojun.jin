@@ -48,7 +48,7 @@ design:
 <li>陈君, 聂宇成, 陈勇, 于佳琳, <font color="800000">金小俊</font>. 一种夹紧力可感知可调节的果实采摘机械手[P].（申请公布号: CN114946406A, 申请公布日: 2022.08.30, 实质审查的生效, 发明）</li>
 <li>陈君, 聂宇成, 陈勇, 于佳琳, <font color="800000">金小俊</font>. 一种可感知夹紧力的球状水果采摘执行器[P].（申请公布号: CN114931026A, 申请公布日: 2022.08.23, 实质审查的生效, 发明）</li>
 <li>聂宇成, 陈勇, 于佳琳, <font color="800000">金小俊</font>, 徐星星. 一种实现除草剂精准喷施的并联除草机器人[P]. 中国: ZL202220577437.1（<font color="0000FF">授权公告日: 2022.07.05</font>, 实用新型）<a href="./archive/patent/一种实现除草剂精准喷施的并联除草机器人.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>, 于佳琳, 陈勇. 一种草坪除草剂精准喷施方法[P].（申请公布号: CN114467900A, 申请公布日: 2022.05.13, <font color="0000FF">授权公告日: 2022.12.27</font>, 发明）<a href="./archive/patent/一种草坪除草剂精准喷施方法.pdf">[certificate]</a ></li>
+<li><font color="800000">金小俊</font>, 于佳琳, 陈勇. 一种草坪除草剂精准喷施方法[P]. 中国: ZL20221014653.4（<font color="0000FF">授权公告日: 2022.12.27</font>, 发明）<a href="./archive/patent/一种草坪除草剂精准喷施方法.pdf">[certificate]</a ></li>
 <li>王衍, 王英尧, 曹志康, 赵全忠, 付强, 徐冰, <font color="800000">金小俊</font>, 胡琼, 马志远. 一种干气密封微米级沟槽的超短脉冲激光精密加工方法[P]. 中国: ZL202010645926.1（<font color="0000FF">授权公告日: 2021.12.03</font>, 发明）<a href="./archive/patent/一种干气密封微米级沟槽的超短脉冲激光精密加工方法.pdf">[certificate]</a ></li>
 <li>姚袁梦, 洪晓玮, 陈勇, <font color="800000">金小俊</font>. 一种自动化移液工作站[P]. 中国: ZL202120230250.X（<font color="0000FF">授权公告日: 2021.11.12</font>, 实用新型）<a href="./archive/patent/一种自动化移液工作站.pdf">[certificate]</a ></li>
 <li>聂宇成, 洪晓玮, 刘俊锋, <font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种草坪与牧草除草机器人[P]. 中国: ZL202120213189.8（<font color="0000FF">授权公告日: 2021.11.05</font>, 实用新型）<a href="./archive/patent/一种草坪与牧草除草机器人.pdf">[certificate]</a ></li>
