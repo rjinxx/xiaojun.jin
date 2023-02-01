@@ -40,7 +40,7 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2023</b></font>
-<li><font color="800000">Xiaojun Jin</font>, Teng Liu, Patrick E. Mccullough, Yong Chen*, Jialin Yu*. <a href="https://doi.org/10.3389/fpls.2023.1096802">Evaluation of convolutional neural networks for herbicide susceptibility-based weed detection in turf</a >[J]. Frontiers in Plant Science, 2023, 14: 1096802. [PDF]</a ></li>
+<li><font color="800000">Xiaojun Jin</font>, Teng Liu, Patrick E. McCullough, Yong Chen*, Jialin Yu*. <a href="https://doi.org/10.3389/fpls.2023.1096802">Evaluation of convolutional neural networks for herbicide susceptibility-based weed detection in turf</a >[J]. Frontiers in Plant Science, 2023, 14: 1096802. <a href="./archive/publication/Evaluation of convolutional neural networks for herbicide susceptibility-based weed detection in turf.pdf">[PDF]</a ></li>
 <font color="#CD5C5C"><b style="margin-left: -35px">2022</b></font>
 <li >汪谦谦, 孙艳霞, 徐星星, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. 基于深度学习的青椒识别研究[J]. 包装与食品机械, 2022. Accept. [PDF]</li>
 <li>Jiayao Zhuang, <font color="800000">Xiaojun Jin</font>, Yong Chen, Wenting Meng, Yundi Wang, Jialin Yu*, Muthukumar Bagavathiannan*. <a href="https://doi.org/10.1111/gfs.12583">Drought stress impact on the performance of deep convolutional neural networks for weed detection in Bahiagrass</a >[J]. Grass and Forage Science, 2022. doi: 10.1111/gfs.12583. <a href="./archive/publication/Drought stress impact on the performance of deep convolutional neural networks for weed detection in Bahiagrass.pdf">[PDF]</a ></li>
