@@ -26,7 +26,7 @@ experience:
     company: Peking University Institute of Advanced Agricultural Sciences
     company_url: "http://www.pku-iaas.edu.cn"
     location: Weifang
-    date_start: "2022-05-01"
+    date_start: "2022-10-01"
     date_end: ""
     description: Develop robotics and sensing technologies for precision agriculture, with particular emphasis on weed control.
 
