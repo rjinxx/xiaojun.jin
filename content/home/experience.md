@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Student / Research Assistant
+  - title: Joint Ph.D. Student
     company: Peking University Institute of Advanced Agricultural Sciences
     company_url: "http://www.pku-iaas.edu.cn"
     location: Weifang
@@ -30,7 +30,7 @@ experience:
     date_end: ""
     description: Develop robotics and sensing technologies for precision agriculture, with particular emphasis on weed control.
 
-  - title: Principle Engineer
+  - title: Principal Engineer
     company: SAIC Mobility Co., Ltd.
     company_url: "https://www.saicmobility.com"
     location: Nanjing
