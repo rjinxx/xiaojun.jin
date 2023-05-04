@@ -43,6 +43,7 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <li><font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种融合深度学习与图像处理的杂草识别方法[P].（申请号: 2023102475644, 申请日: 2023.03.15, 受理, 发明）</li>
+<li>陈勇, <font color="800000">金小俊</font>, 于佳琳. 一种草坪杂草识别与精准喷施方法[P].（申请公布号: CN116051891A, 申请公布日: 2023.05.02, 实质审查的生效, 发明）</li>
 <li><font color="800000">金小俊</font>, 刘旭东, 于佳琳. 除草机器人[P]. 中国: ZL202222281366.3（<font color="0000FF">授权公告日: 2023.03.24</font>, 实用新型）<a href="./archive/patent/除草机器人.pdf">[certificate]</a ></li>
 <li>于佳琳, <font color="800000">金小俊</font>, 刘旭东, 刘腾, 于洋. 除草设备[P]. 中国: ZL202222112381.5（<font color="0000FF">授权公告日: 2022.11.11</font>, 实用新型）<a href="./archive/patent/除草设备.pdf">[certificate]</a ></li>
 <li>于佳琳, <font color="800000">金小俊</font>, 刘旭东, 于洋, 刘腾. 除草方式的确定方法、装置、电子设备及除草系统[P].（申请公布号: CN115251024A, 申请公布日: 2022.11.01, 实质审查的生效, 发明）</li>
