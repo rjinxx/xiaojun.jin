@@ -6,7 +6,7 @@ title: Xiaojun Jin
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor, Institute of Advanced Agricultural Sciences, Peking University
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
