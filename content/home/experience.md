@@ -35,7 +35,7 @@ experience:
     company_url: "https://www.saicmobility.com"
     location: Nanjing
     date_start: "2019-04-01"
-    date_end: ""
+    date_end: "2023-11-03"
     description: Build software for SAIC Motor’s mobility platform.
 
   - title: Senior Software Engineer
