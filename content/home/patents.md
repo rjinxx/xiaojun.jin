@@ -42,6 +42,7 @@ design:
 
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
+<li>韩康, 李卫丽, <font color="800000">金小俊</font>, 骆婕, 于佳琳, 赵化, 张啸岳. 一种草莓种植用环保除虫装置[P].（申请号: 2023110603199, 申请日: 2023.08.22, 受理, <b>发明</b>）</li>
 <li><font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种融合深度学习与图像处理的杂草识别方法[P].（申请号: 2023102475644, 申请日: 2023.03.15, 受理, <b>发明</b>）</li>
 <li>陈勇, <font color="800000">金小俊</font>, 于佳琳. 一种草坪杂草识别与精准喷施方法[P].（申请公布号: CN116051891A, 申请公布日: 2023.05.02, 实质审查的生效, <b>发明</b>）</li>
 <li><font color="800000">金小俊</font>, 刘旭东, 于佳琳. 除草机器人[P]. 中国: ZL202222281366.3（<font color="0000FF">授权公告日: 2023.03.24</font>, 实用新型）<a href="./archive/patent/除草机器人.pdf">[certificate]</a ></li>

@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: ./archive/software/弱信号场景下的无漂移司乘同显系统.pdf
+    date_end: ""
+    date_start: "2023-08-24"
+    description: ""
+    organization: 金小俊, 韩康
+    organization_url: ""
+    title: 弱信号场景下的无漂移司乘同显系统
+    url: ""
   - certificate_url: ""
     date_end: ""
     date_start: "2022-09-21"
