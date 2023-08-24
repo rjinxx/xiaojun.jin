@@ -6,12 +6,12 @@ title: Xiaojun Jin
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Mechanical Engineering
+role: Associate Professor, Institute of Advanced Agricultural Sciences, Peking University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing Forestry University
-    url: https://www.njfu.edu.cn/
+  - name: Institute of Advanced Agricultural Sciences, Peking University
+    url: http://www.pku-iaas.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine vision, artificial intelligence, and robotics.

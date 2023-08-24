@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Joint Ph.D. Student
-    company: Peking University Institute of Advanced Agricultural Sciences
+  - title: Associate Professor
+    company: Institute of Advanced Agricultural Sciences, Peking University
     company_url: "http://www.pku-iaas.edu.cn"
     location: Weifang
     date_start: "2022-10-01"
