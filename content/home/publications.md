@@ -40,8 +40,8 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2023</b></font>
-<li>Teng Liu, <font color="800000">Xiaojun Jin</font>, Luyao Zhang, Jie Wang, Yong Chen, Chengsong Hu*, Jialin Yu*. Semi-supervised learning and attention mechanism for weed detection in wheat[J]. Crop Protection, 2023, 174: 106389. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2023. 录用. [PDF]</li>
+<li>Teng Liu, <font color="800000">Xiaojun Jin</font>, Luyao Zhang, Jie Wang, Yong Chen, Chengsong Hu*, Jialin Yu*. Semi-supervised learning and attention mechanism for weed detection in wheat[J]. Crop Protection, 2023, 174: 106389. <a href="./archive/publication/Semi-supervised learning and attention mechanism for weed detection in wheat.pdf">[PDF]</a ></li>
 <li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2023. 录用. [PDF]</li>
 <li><font color="800000">金小俊</font>, 孙艳霞, 于佳琳, 陈勇*. 基于深度学习与图像处理的蔬菜苗期杂草识别方法[J]. 吉林大学学报（工学版）, 2023, 53(8): 2421-2429. <a href="./archive/publication/基于深度学习与图像处理的蔬菜苗期杂草识别方法.pdf">[PDF]</a ></li>
 <li >汪谦谦, 孙艳霞, 徐星星, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. <a href="https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz92FoSSt3hwWSRYa009-_rfEK7k02GzzkZGISgSg7fl2&uniplatform=NZKPT">基于深度学习的青椒识别研究</a >[J]. 包装与食品机械, 2023, 41(3): 89-93. <a href="./archive/publication/基于深度学习的青椒识别研究.pdf">[PDF]</a ></li>
