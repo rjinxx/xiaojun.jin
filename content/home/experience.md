@@ -26,17 +26,17 @@ experience:
     company: Institute of Advanced Agricultural Sciences, Peking University
     company_url: "http://www.pku-iaas.edu.cn"
     location: Weifang
-    date_start: "2023-11-06"
+    date_start: "2023-09-25"
     date_end: ""
-    description: Develop robotics and sensing technologies for precision agriculture, with particular emphasis on weed control.
+    description: Conduct research on robotics and sensing technologies for smart agriculture, with a particular emphasis on precision weed control.
 
   - title: Principal Engineer
     company: SAIC Mobility Co., Ltd.
     company_url: "https://www.saicmobility.com"
     location: Nanjing
     date_start: "2019-04-01"
-    date_end: "2023-11-03"
-    description: Build software for SAIC Motor’s mobility platform.
+    date_end: "2023-09-22"
+    description: Product design, technical architecture, project management, and team leadership.
 
   - title: Senior Software Engineer
     company: ArcSoft, Inc.
