@@ -39,10 +39,11 @@ design:
 
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
+<font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
+<li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. 录用. [PDF]</li>
+<li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. 录用. [PDF]</li>
+<li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2024. 录用. [PDF]</li>
 <font color="#CD5C5C"><b style="margin-left: -35px">2023</b></font>
-<li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2023. 录用. [PDF]</li>
-<li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2023. 录用. [PDF]</li>
-<li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2023. 录用. [PDF]</li>
 <li>韩康, 洪滢, 孙艳霞, 张啸岳, 于佳琳, <font color="800000">金小俊*</font>. <a href="https://kns.cnki.net/kcms2/article/abstract?v=0kbmF0AymBAfGmAND283v9te-blavFNwLOi7hQW5iffO-Rs7Z_1We2CsfaX_0Bu5ttVOXwlZZxP86e752OC9q4DclNlmNxu6cOWUJNqpS-D0X5IpBanTxOvUK01KBgLUkvjUS-iZPB7aFXtbVAWstQ==&uniplatform=NZKPT&language=CHS">移动应用远程诊断与热修复方法</a >[J]. 软件, 2023, 44(10): 1-4, 133. <a href="./archive/publication/移动应用远程诊断与热修复方法.pdf">[PDF]</a ></li>
 <li>Teng Liu, <font color="800000">Xiaojun Jin</font>, Luyao Zhang, Jie Wang, Yong Chen, Chengsong Hu*, Jialin Yu*. <a href="https://doi.org/10.1016/j.cropro.2023.106389">Semi-supervised learning and attention mechanism for weed detection in wheat</a >[J]. Crop Protection, 2023, 174: 106389. <a href="./archive/publication/Semi-supervised learning and attention mechanism for weed detection in wheat.pdf">[PDF]</a ></li>
 <li><font color="800000">金小俊</font>, 孙艳霞, 于佳琳, 陈勇*. <a href="https://doi.org/10.13229/j.cnki.jdxbgxb.20211070">基于深度学习与图像处理的蔬菜苗期杂草识别方法</a >[J]. 吉林大学学报（工学版）, 2023, 53(8): 2421-2429. <a href="./archive/publication/基于深度学习与图像处理的蔬菜苗期杂草识别方法.pdf">[PDF]</a ></li>
