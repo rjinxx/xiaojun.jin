@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and the Institute of Advanced Agricultural Sciences, Peking University, 2024 (Advisor: Dr. Yong Chen and Dr. Jialin Yu)
+    - course: Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and the Institute of Advanced Agricultural Sciences, Peking University, 2024 (Advisor Dr. Yong Chen and Dr. Jialin Yu)
       # institution: Nanjing Forestry University - Peking University Institute of Advanced Agricultural Sciences
       # year: 2024
-    - course: M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor: Dr. Yong Chen)
+    - course: M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor Dr. Yong Chen)
       # institution: Nanjing Forestry University
       # year: 2012
     - course: B.S. in Mechanical Engineering, Nanjing Forestry University, 2009
