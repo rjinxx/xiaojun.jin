@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
-      institution: Nanjing Forestry University
+      institution: Nanjing Forestry University - Peking University Institute of Advanced Agricultural Sciences
       year: 2024
     - course: M.S. in Mechanical Engineering
       institution: Nanjing Forestry University
@@ -71,5 +71,3 @@ highlight_name: true
 ---
 
 <div style="text-align: justify"> Xiaojun Jin received the B.S. and M.S. degrees from Nanjing Forestry University, Nanjing, China, in 2009 and 2012, respectively, where he is currently pursuing the Ph.D. degree, all in Mechanical Engineering. Since September 2023, he has been serving as an Associate Professor at the Institute of Advanced Agricultural Sciences, Peking University, where his research focuses on robotics and sensing technologies for smart agriculture, with a particular emphasis on precision weed control. From April 2019 to September 2023, he worked as a Principal Engineer at SAIC Mobility Co., Ltd., where he developed software for SAIC Motor’s mobility platform. Prior to that, he held the position of Senior Software Engineer at ArcSoft, Inc., where he specialized in designing retail and OEM software, with a focus on architecture, modular design, continuous integration, and project management. His current research interests include machine vision, artificial intelligence, and robotics. Download his {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}. </div>
-
-
