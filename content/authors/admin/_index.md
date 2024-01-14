@@ -74,8 +74,8 @@ highlight_name: true
 
 ### Education
 
-- Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and the Institute of Advanced Agricultural Sciences, Peking University, 2024 (Advisor Dr. Yong Chen and Dr. Jialin Yu)
-- M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a >)
+- Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and the Institute of Advanced Agricultural Sciences, Peking University, 2024 (Advisor: <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a > and <a href="http://www.pku-iaas.edu.cn/list_38/595.html">Dr. Jialin Yu</a >)
+- M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor: <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a >)
 - B.S. in Mechanical Engineering, Nanjing Forestry University, 2009
 
 </div>
