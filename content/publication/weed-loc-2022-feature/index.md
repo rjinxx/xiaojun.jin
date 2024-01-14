@@ -20,7 +20,7 @@ draft: false
 links:
 - name: SCI
   url: ''
-- name: 中科院1区Top期刊
+- name: JCR Q1
   url: ''
 - name: IF 4.462
   url: ''

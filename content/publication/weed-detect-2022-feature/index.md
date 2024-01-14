@@ -21,9 +21,9 @@ draft: false
 links:
 - name: SCI
   url: ''
-- name: ESI全球TOP 1%高被引论文
+- name: ESI TOP 1% Highly Cited Paper
   url: ''
-- name: 中科院1区Top期刊
+- name: JCR Q1
   url: ''
 - name: IF 4.462
   url: ''
