@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Mechanical Engineering
-      institution: Joint program by Nanjing Forestry University and Institute of Advanced Agricultural Sciences, Peking University
+      institution: Nanjing Forestry University - Peking University Institute of Advanced Agricultural Sciences
       year: 2024
     - course: M.S. in Mechanical Engineering
       institution: Nanjing Forestry University
