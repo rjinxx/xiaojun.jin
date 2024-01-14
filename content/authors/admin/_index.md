@@ -28,7 +28,7 @@ education:
     - course: Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and the Institute of Advanced Agricultural Sciences, Peking University, 2024 (Advisor Dr. Yong Chen and Dr. Jialin Yu)
       # institution: Nanjing Forestry University - Peking University Institute of Advanced Agricultural Sciences
       # year: 2024
-    - course: M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor Dr. Yong Chen)
+    - course: M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a >)
       # institution: Nanjing Forestry University
       # year: 2012
     - course: B.S. in Mechanical Engineering, Nanjing Forestry University, 2009
