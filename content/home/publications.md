@@ -40,6 +40,7 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
+<li>李卫丽, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. 基于深度学习的蔬菜田精准除草作业区域检测方法[J]. 福建农业学报, 2024. Accepted. [PDF]</li>
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. Accepted. [PDF]</li>
 <li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2024. Accepted. [PDF]</li>
