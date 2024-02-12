@@ -40,7 +40,7 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
-<li>Xin Chen, Teng Liu, Kang Han, <font color="800000">Xiaojun Jin*</font>, Jialin Yu*. Semi-supervised learning for detection of sedges in sod farms[J]. Crop Protection, 2024. Accepted. [PDF]</li>
+<li>Xin Chen, Teng Liu, Kang Han, <font color="800000">Xiaojun Jin*</font>, Jialin Yu*. <a href="https://doi.org/10.1016/j.cropro.2024.106626">Semi-supervised learning for detection of sedges in sod farms</a >[J]. Crop Protection, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 牟海雯, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 基于深度卷积神经网络的青菜和杂草识别[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>李卫丽, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. 基于深度学习的蔬菜田精准除草作业区域检测方法[J]. 福建农业学报, 2024. Accepted. [PDF]</li>
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
