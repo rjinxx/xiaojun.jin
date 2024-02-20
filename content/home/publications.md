@@ -40,12 +40,12 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
-<li>Xin Chen, Teng Liu, Kang Han, <font color="800000">Xiaojun Jin*</font>, Jialin Yu*. <a href="https://doi.org/10.1016/j.cropro.2024.106626">Semi-supervised learning for detection of sedges in sod farms</a >[J]. Crop Protection, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 牟海雯, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 基于深度卷积神经网络的青菜和杂草识别[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>李卫丽, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. 基于深度学习的蔬菜田精准除草作业区域检测方法[J]. 福建农业学报, 2024. Accepted. [PDF]</li>
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. Accepted. [PDF]</li>
 <li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2024. Accepted. [PDF]</li>
+<li>Xin Chen, Teng Liu, Kang Han, <font color="800000">Xiaojun Jin*</font>, Jialin Yu*. <a href="https://doi.org/10.1016/j.cropro.2024.106626">Semi-supervised learning for detection of sedges in sod farms</a >[J]. Crop Protection, 2024, 179: 106626. <a href="./archive/publication/Semi-supervised learning for detection of sedges in sod farms.pdf">[PDF]</a ></li>
 <br />
 <font color="#CD5C5C"><b style="margin-left: -35px">2023</b></font>
 <li>韩康, 洪滢, 孙艳霞, 张啸岳, 于佳琳, <font color="800000">金小俊*</font>. <a href="https://kns.cnki.net/kcms2/article/abstract?v=0kbmF0AymBAfGmAND283v9te-blavFNwLOi7hQW5iffO-Rs7Z_1We2CsfaX_0Bu5ttVOXwlZZxP86e752OC9q4DclNlmNxu6cOWUJNqpS-D0X5IpBanTxOvUK01KBgLUkvjUS-iZPB7aFXtbVAWstQ==&uniplatform=NZKPT&language=CHS">移动应用远程诊断与热修复方法</a >[J]. 软件, 2023, 44(10): 1-4, 133. <a href="./archive/publication/移动应用远程诊断与热修复方法.pdf">[PDF]</a ></li>
