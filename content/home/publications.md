@@ -45,7 +45,8 @@ design:
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. Accepted. [PDF]</li>
 <li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2024. Accepted. [PDF]</li>
-<li><font color="800000">Xiaojun Jin</font>, Kang Han, Hua Zhao, Yan Wang, Yong Chen*, Jialin Yu*. <a href="https://doi.org/10.1002/ps.8055">Detection and coverage estimation of purple nutsedge in turf with image classification neural networks</a >[J]. Pest Management Science, 2024, doi: 10.1002/ps.8055. [PDF]</li>
+<li><font color="800000">Xiaojun Jin</font>, Kang Han, Hua Zhao, Yan Wang, Yong Chen*, Jialin Yu*. <a href="https://doi.org/10.1002/ps.8055">Detection and coverage estimation of purple nutsedge in turf with image classification neural networks</a >[J]. Pest Management Science, 2024, doi: 10.1002/ps.8055. <a href="./archive/publication/Detection and coverage estimation of purple nutsedge in turf with image classification neural networks.pdf">[PDF]</a ></li>
+<br />
 <li>Xin Chen, Teng Liu, Kang Han, <font color="800000">Xiaojun Jin*</font>, Jialin Yu*. <a href="https://doi.org/10.1016/j.cropro.2024.106626">Semi-supervised learning for detection of sedges in sod farms</a >[J]. Crop Protection, 2024, 179: 106626. <a href="./archive/publication/Semi-supervised learning for detection of sedges in sod farms.pdf">[PDF]</a ></li>
 <br />
 <font color="#CD5C5C"><b style="margin-left: -35px">2023</b></font>
