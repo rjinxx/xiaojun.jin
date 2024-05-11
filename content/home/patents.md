@@ -42,6 +42,7 @@ design:
 
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
+<li>金慧萍, 韩康, 张啸岳, 李卫丽, <font color="800000">金小俊</font>. 一种基于不均匀性分析的草坪杂草识别方法[P].（申请号: 2024105788594, 申请日: 2024.05.11, 受理, <b>发明</b>）</li>
 <li><font color="800000">金小俊</font>, 刘腾, 刘晓芹, 陈欣, 韩康, 张啸岳, 于佳琳. 花生壳腰深的测量方法和测量装置[P].（申请公布号: CN117870568A, 申请公布日: 2024.04.12, 实质审查的生效, <b>发明</b>）</li>
 <li>陈欣, <font color="800000">金小俊</font>, 刘晓芹, 刘腾, 于佳琳. 花生壳腰深的测量方法和测量装置[P].（申请公布号: CN117722975A, 申请公布日: 2024.03.19, 实质审查的生效, <b>发明</b>）</li>
 <li><font color="800000">金小俊</font>, 谢加超, 杨喆, 张啸岳, 韩康, 于佳琳. 大棚无人车导航方法和大棚无人车导航系统[P]. 中国: ZL202410081791.9（<font color="0000FF">授权公告日: 2024.04.16</font>, <b>发明</b>）<a href="./archive/patent/大棚无人车导航方法和大棚无人车导航系统.pdf">[certificate]</a ></li>
@@ -62,15 +63,15 @@ design:
 <li>姚袁梦, <font color="800000">金小俊</font>, 洪晓玮, 陈勇, 于佳琳. 一种除草剂精准施药装置[P]. 中国: ZL202120210183.5（<font color="0000FF">授权公告日: 2021.09.28</font>, 实用新型）<a href="./archive/patent/一种除草剂精准施药装置.pdf">[certificate]</a ></li>
 <li>姚袁梦, 洪晓玮, <font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种除草剂精准施药器[P]. 中国: ZL202120210186.9（<font color="0000FF">授权公告日: 2021.09.28</font>, 实用新型）<a href="./archive/patent/一种除草剂精准施药器-1.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种基于云端杀草谱的草坪及牧草精准除草方法[P]. 中国: ZL202110603279.2（<font color="0000FF">授权公告日: 2022.06.03</font>, <b>发明</b>）<a href="./archive/patent/一种基于云端杀草谱的草坪及牧草精准除草方法.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>, 蒋杰, 赵化, 李卫丽. 一种基于模板代码匹配的轻量级热修复方法[P]. 中国: ZL202011469614.6（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
-<li><font color="800000">金小俊</font>, 刘亚刚. 一种支持动态场景配置的可视化埋点方法[P]. 中国: ZL202010907695.7（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 蒋杰, 赵化, 李卫丽. 一种基于模板代码匹配的轻量级热修复方法[P]. 中国: ZL202011469614.6（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 刘亚刚. 一种支持动态场景配置的可视化埋点方法[P]. 中国: ZL202010907695.7（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>. 一种针对弱信号场景下的无漂移司乘同显方法[P]. 中国: ZL202010907313.0（<font color="0000FF">授权公告日: 2023.07.21</font>, <b>发明</b>）<a href="./archive/patent/一种针对弱信号场景下的无漂移司乘同显方法.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
-<li><font color="800000">金小俊</font>, 赵化, 王兴明. 一种基于数据和状态的移动应用埋点方法[P]. 中国: ZL202011084491.4（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 赵化, 王兴明. 一种基于数据和状态的移动应用埋点方法[P]. 中国: ZL202011084491.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种基于数据和状态的移动应用埋点方法.pdf">[certificate]</a ></li>
 <li>赵化, <font color="800000">金小俊</font>. 一种Sketch组件库生成和管理系统[P]. 中国: ZL202011085380.5（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>, 李卫丽. 基于路径导向的移动应用未读内容提示方法[P].（申请公布号: CN112199579A, 申请公布日: 2021.01.08, 实质审查的生效, <b>发明</b>）</li>
-<li>赵化, <font color="800000">金小俊</font>, 刘亚刚. 一种从视觉稿直接生成UI代码的方法及装置[P]. 中国: ZL202011084484.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）[certificate]</li>
+<li>赵化, <font color="800000">金小俊</font>, 刘亚刚. 一种从视觉稿直接生成UI代码的方法及装置[P]. 中国: ZL202011084484.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种从视觉稿直接生成UI代码的方法及装置.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于行为描述的移动应用开发方法[P]. 中国: ZL202010942235.8（<font color="0000FF">授权公告日: 2023.12.26</font>, <b>发明</b>）<a href="./archive/patent/一种基于行为描述的移动应用开发方法.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>. 一种移动应用远程诊断及热修复方法[P]. 中国: ZL202010907356.9（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>. 一种移动应用远程诊断及热修复方法[P]. 中国: ZL202010907356.9（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
 </ol>
 </div>
