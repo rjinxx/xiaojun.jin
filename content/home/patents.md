@@ -64,7 +64,7 @@ design:
 <li>姚袁梦, 洪晓玮, <font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种除草剂精准施药器[P]. 中国: ZL202120210186.9（<font color="0000FF">授权公告日: 2021.09.28</font>, 实用新型）<a href="./archive/patent/一种除草剂精准施药器-1.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 陈勇, 于佳琳. 一种基于云端杀草谱的草坪及牧草精准除草方法[P]. 中国: ZL202110603279.2（<font color="0000FF">授权公告日: 2022.06.03</font>, <b>发明</b>）<a href="./archive/patent/一种基于云端杀草谱的草坪及牧草精准除草方法.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 蒋杰, 赵化, 李卫丽. 一种基于模板代码匹配的轻量级热修复方法[P]. 中国: ZL202011469614.6（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）[certificate]</li>
-<li><font color="800000">金小俊</font>, 刘亚刚. 一种支持动态场景配置的可视化埋点方法[P]. 中国: ZL202010907695.7（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 刘亚刚. 一种支持动态场景配置的可视化埋点方法[P]. 中国: ZL202010907695.7（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）<a href="./archive/patent/一种支持动态场景配置的可视化埋点方法.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>. 一种针对弱信号场景下的无漂移司乘同显方法[P]. 中国: ZL202010907313.0（<font color="0000FF">授权公告日: 2023.07.21</font>, <b>发明</b>）<a href="./archive/patent/一种针对弱信号场景下的无漂移司乘同显方法.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>, 赵化, 王兴明. 一种基于数据和状态的移动应用埋点方法[P]. 中国: ZL202011084491.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种基于数据和状态的移动应用埋点方法.pdf">[certificate]</a ></li>
