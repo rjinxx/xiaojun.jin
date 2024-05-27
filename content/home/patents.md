@@ -69,9 +69,9 @@ design:
 <li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>, 赵化, 王兴明. 一种基于数据和状态的移动应用埋点方法[P]. 中国: ZL202011084491.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种基于数据和状态的移动应用埋点方法.pdf">[certificate]</a ></li>
 <li>赵化, <font color="800000">金小俊</font>. 一种Sketch组件库生成和管理系统[P]. 中国: ZL202011085380.5（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
-<li><font color="800000">金小俊</font>, 李卫丽. 基于路径导向的移动应用未读内容提示方法[P].（申请公布号: CN112199579A, 申请公布日: 2021.01.08, 实质审查的生效, <b>发明</b>）</li>
+<li><font color="800000">金小俊</font>, 李卫丽. 基于路径导向的移动应用未读内容提示方法[P]. 中国: ZL202010907708.0（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
 <li>赵化, <font color="800000">金小俊</font>, 刘亚刚. 一种从视觉稿直接生成UI代码的方法及装置[P]. 中国: ZL202011084484.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种从视觉稿直接生成UI代码的方法及装置.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于行为描述的移动应用开发方法[P]. 中国: ZL202010942235.8（<font color="0000FF">授权公告日: 2023.12.26</font>, <b>发明</b>）<a href="./archive/patent/一种基于行为描述的移动应用开发方法.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>. 一种移动应用远程诊断及热修复方法[P]. 中国: ZL202010907356.9（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>. 一种移动应用远程诊断及热修复方法[P]. 中国: ZL202010907356.9（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）<a href="./archive/patent/一种移动应用远程诊断及热修复方法.pdf">[certificate]</a ></li>
 </ol>
 </div>
