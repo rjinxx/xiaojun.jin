@@ -66,7 +66,7 @@ design:
 <li><font color="800000">金小俊</font>, 蒋杰, 赵化, 李卫丽. 一种基于模板代码匹配的轻量级热修复方法[P]. 中国: ZL202011469614.6（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>, 刘亚刚. 一种支持动态场景配置的可视化埋点方法[P]. 中国: ZL202010907695.7（<font color="0000FF">授权公告日: 2024.05.14</font>, <b>发明</b>）<a href="./archive/patent/一种支持动态场景配置的可视化埋点方法.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>. 一种针对弱信号场景下的无漂移司乘同显方法[P]. 中国: ZL202010907313.0（<font color="0000FF">授权公告日: 2023.07.21</font>, <b>发明</b>）<a href="./archive/patent/一种针对弱信号场景下的无漂移司乘同显方法.pdf">[certificate]</a ></li>
-<li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）[certificate]</li>
+<li><font color="800000">金小俊</font>, 赵化, 李卫丽. 一种基于iOS应用的轻量级解耦式埋点方法及装置[P]. 中国: ZL202011084482.5（<font color="0000FF">授权公告日: 2024.05.17</font>, <b>发明</b>）<a href="./archive/patent/一种基于iOS应用的轻量级解耦式埋点方法及装置.pdf">[certificate]</a ></li>
 <li><font color="800000">金小俊</font>, 赵化, 王兴明. 一种基于数据和状态的移动应用埋点方法[P]. 中国: ZL202011084491.4（<font color="0000FF">授权公告日: 2024.04.30</font>, <b>发明</b>）<a href="./archive/patent/一种基于数据和状态的移动应用埋点方法.pdf">[certificate]</a ></li>
 <li>赵化, <font color="800000">金小俊</font>. 一种Sketch组件库生成和管理系统[P]. 中国: ZL202011085380.5（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
 <li><font color="800000">金小俊</font>, 李卫丽. 基于路径导向的移动应用未读内容提示方法[P]. 中国: ZL202010907708.0（<font color="0000FF">授权待公告</font>, <b>发明</b>）[certificate]</li>
