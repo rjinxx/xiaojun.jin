@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: ./archive/software/智能化资产云端管理系统.pdf
+    date_end: ""
+    date_start: "2024-07-04"
+    description: ""
+    organization: 张啸岳, 朱文鹏, 韩康, 金小俊, 于佳琳
+    organization_url: ""
+    title: 智能化资产云端管理系统
+    url: ""
+  - certificate_url: ./archive/software/智能化种子云端管理系统.pdf
+    date_end: ""
+    date_start: "2024-07-04"
+    description: ""
+    organization: 韩康, 朱文鹏, 张啸岳, 金小俊, 于佳琳
+    organization_url: ""
+    title: 智能化种子云端管理系统
+    url: ""
   - certificate_url: ./archive/software/资产智能化云管理软件.pdf
     date_end: ""
     date_start: "2024-06-20"
