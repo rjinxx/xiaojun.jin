@@ -10,7 +10,7 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute of Advanced Agricultural Sciences, Peking University
+  - name: Peking University Institute of Advanced Agricultural Sciences 
     url: http://www.pku-iaas.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,11 +70,12 @@ email: ""
 highlight_name: true
 ---
 
-<div style="text-align: justify"> Xiaojun Jin obtained his B.S. and M.S. degrees in Mechanical Engineering from Nanjing Forestry University (ranked <a href="http://www.chinaxy.com/2022index/news/news.jsp?information_id=10972">72nd</a > in China) in 2009 and 2012, respectively. He is currently enrolled in a joint Ph.D. program in Mechanical Engineering, co-conducted by Nanjing Forestry University and Peking University Institute of Advanced Agricultural Sciences. Since September 2023, he has been serving as an Associate Professor at the Institute of Advanced Agricultural Sciences, Peking University, where his research focuses on robotics and sensing technologies for smart agriculture, with a particular emphasis on precision weed control. From April 2019 to September 2023, he worked as a Principal Engineer at SAIC Mobility Co., Ltd., where he developed software for SAIC Motor’s mobility platform. Prior to that, he held the position of Senior Software Engineer at ArcSoft, Inc., where he specialized in designing retail and OEM software, with a focus on architecture, modular design, continuous integration, and project management. His current research interests include machine vision, artificial intelligence, and robotics. Download his {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
- 
+<div style="text-align: justify"> 
+
+Xiaojun Jin received his B.S., M.S., and Ph.D. degrees in Mechanical Engineering from Nanjing Forestry University (ranked <a href="http://www.chinaxy.com/2022index/news/news.jsp?information_id=10972">72nd</a > in China) in 2009, 2012, and 2024, respectively. He is currently an Associate Professor at the Peking University Institute of Advanced Agricultural Sciences, where his research focuses on robotics and sensing technologies for smart agriculture, with a particular emphasis on precision weed control. Before joining PKU-IAAS, Dr. Jin worked as a Principal Engineer at SAIC Mobility Co., Ltd., developing software for SAIC Motor’s mobility platform. He also served as a Senior Software Engineer at ArcSoft, Inc., specializing in retail and OEM software design, with a focus on architecture, modular design, continuous integration, and project management. His current research interests include machine vision, artificial intelligence, and robotics. Dr. Jin has published over 40 peer-reviewed papers in reputable journals and holds 24 patents. Additionally, he has registered 24 software copyrights. His current research interests include machine vision, artificial intelligence, and robotics. For more details, please download Dr. Jin's {{< staticref "media/金小俊简历.pdf" "newtab" >}}resumé{{< /staticref >}}.
  
 ### Education
 
-- Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and Peking University Institute of Advanced Agricultural Sciences, 2024 (Advisor: <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a > and <a href="http://www.pku-iaas.edu.cn/list_38/595.html">Dr. Jialin Yu</a >)
+- Ph.D. in Mechanical Engineering, Joint program by Nanjing Forestry University and Peking University Institute of Advanced Agricultural Sciences, 2024 (Advisor: <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a > and <a href="http://www.saas.pku.edu.cn/sztd/xdnyyjyyjy/377582.htm">Dr. Jialin Yu</a >)
 - M.S. in Mechanical Engineering, Nanjing Forestry University, 2012 (Advisor: <a href="https://jidian.njfu.edu.cn/szdw/js/20211104/i244290.html">Dr. Yong Chen</a >)
 - B.S. in Mechanical Engineering, Nanjing Forestry University, 2009</div>

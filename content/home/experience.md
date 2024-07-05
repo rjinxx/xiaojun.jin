@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Associate Professor
-    company: Institute of Advanced Agricultural Sciences, Peking University
+    company: Peking University Institute of Advanced Agricultural Sciences
     company_url: "http://www.pku-iaas.edu.cn"
     location: Weifang
     date_start: "2023-09-25"
