@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaojun Jin
+title: Xiaojun Jin, PhD
 
 # Is this the primary user of the site?
 superuser: true
