@@ -5,7 +5,7 @@ title: 'A novel deep learning-based method for detection of weeds in vegetables'
 subtitle: ''
 summary: ''
 authors:
-- admin
+- Xiaojun Jin
 - Yanxia Sun
 - Jun Che
 - Muthukumar Bagavathiannan

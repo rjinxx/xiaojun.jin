@@ -5,7 +5,7 @@ title: 'Detection and coverage estimation of purple nutsedge in turf with image 
 subtitle: ''
 summary: ''
 authors:
-- *Xiaojun Jin*
+- Xiaojun Jin
 - Kang Han
 - Hua Zhao
 - Yan Wang

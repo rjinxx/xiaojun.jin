@@ -5,7 +5,7 @@ title: 'A deep learning-based method for classification, detection, and localiza
 subtitle: ''
 summary: ''
 authors:
-- admin
+- Xiaojun Jin
 - Muthukumar Bagavathiannan
 - Patrick E. McCullough
 - Yong Chen
