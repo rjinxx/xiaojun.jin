@@ -40,7 +40,6 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
-<li>成梓鹏, 汪谦谦, <font color="800000">金小俊</font>, 韩康, 陈勇*. 基于迁移学习的茶叶嫩芽识别方法[J]. 包装与食品机械, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 牟海雯, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 基于深度卷积神经网络的青菜和杂草识别[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. Accepted. [PDF]</li>
