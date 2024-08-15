@@ -40,10 +40,11 @@ design:
 <div style="text-align: justify">
 <ol reversed style="padding-inline-start: 36px">
 <font color="#CD5C5C"><b style="margin-left: -35px">2024</b></font>
-<li>金慧萍, 牟海雯, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 基于深度卷积神经网络的青菜和杂草识别[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>李鑫, 聂宇成, 杨婕, <font color="800000">金小俊</font>, 陈勇*, 于佳琳*. 基于双喷施系统的并联除草机器人研制与仿真分析[J]. 中国农业科技导报, 2024. Accepted. [PDF]</li>
 <li>金慧萍, 朱文鹏, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. 融合卷积神经网络与颜色分割的青菜杂草识别[J]. 中国农机化学报, 2024. Accepted. [PDF]</li>
 <li >汪谦谦, 张伟, <font color="800000">金小俊</font>, 韩余, 陈勇*. 高档名优绿茶柔性采摘指研制[J]. 传感器与微系统, 2024. Accepted. [PDF]</li>
+<li>金慧萍, 牟海雯, 刘腾, 于佳琳, <font color="800000">金小俊*</font>. <a href="https://doi.org/10.13304/j.nykjdb.2023.0873">基于深度卷积神经网络的青菜和杂草识别</a >[J]. 中国农业科技导报, 2024, 26(8): 122-130. <a href="./archive/publication/基于深度卷积神经网络的青菜和杂草识别.pdf">[PDF]</a ></li>
+<li>Yajun Wang, Kezheng Sun, Wei Zhang*, <font color="800000">Xiaojun Jin</font>. <a href="https://www.mdpi.com/2075-1702/12/8/558">A Velocity-Adaptive MPC-Based Path Tracking Method for Heavy-Duty Forklift AGVs</a >[J]. Machines, 2024, 12(8): 558. <a href="./archive/publication/A Velocity-Adaptive MPC-Based Path Tracking Method for Heavy-Duty Forklift AGVs.pdf">[PDF]</a ></li>
 <li>Jiqing Huang, Hua Zhao, <font color="800000">Xiaojun Jin*</font>. <a href="https://doi.org/10.1155/2024/3857343">Enhancing College Student Education and Management through Semisupervised Learning</a >[J]. Journal of Sensors, 2024, 3857343. <a href="./archive/publication/Enhancing College Student Education and Management through Semisupervised Learning.pdf">[PDF]</a ></li>
 <li><font color="800000">Xiaojun Jin</font>, Kang Han, Hua Zhao, Yan Wang, Yong Chen*, Jialin Yu*. <a href="https://doi.org/10.1002/ps.8055">Detection and coverage estimation of purple nutsedge in turf with image classification neural networks</a >[J]. Pest Management Science, 2024, 80(7): 3504-3515. <a href="./archive/publication/Detection and coverage estimation of purple nutsedge in turf with image classification neural networks.pdf">[PDF]</a ></li>
 <li>李卫丽, <font color="800000">金小俊</font>, 于佳琳, 陈勇*. <a href="https://doi.org/10.19303/j.issn.1008-0384.2024.02.010">基于深度学习的蔬菜田精准除草作业区域检测方法</a >[J]. 福建农业学报, 2024, 39(2): 199-205. <a href="./archive/publication/基于深度学习的蔬菜田精准除草作业区域检测方法.pdf">[PDF]</a ></li>
